@@ -35,7 +35,7 @@ span{
     border-radius: 100px;
     color: white;
 }
-#back-img{
+.back-img{
     background-image: url(img/frame.jpg);
     background-repeat: no-repeat;
 }
