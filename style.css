@@ -8,7 +8,7 @@ body{
 section{
     display: flex;   
 }
-.top-padding{
+#top-padding{
     padding-left: 45px;
     padding-top: 480px;
 }
@@ -35,7 +35,7 @@ span{
     border-radius: 100px;
     color: white;
 }
-.back-img{
+#back-img{
     background-image: url(img/frame.jpg);
     background-repeat: no-repeat;
 }
