@@ -8,7 +8,7 @@ body{
 section{
     display: flex;   
 }
-.top-padding{
+#top-padding{
     padding-left: 45px;
     padding-top: 480px;
 }
@@ -17,12 +17,12 @@ section{
     padding-left: 5%;
     padding-right: 5%;
 }
-.head-style{
+#head-style{
     font-size: 150px;
     font-weight: 900;
     color: rgba(87, 79, 79, 0.884);
 }
-.head-para{
+#head-para{
     color: grey
 }
 span{
@@ -35,7 +35,7 @@ span{
     border-radius: 100px;
     color: white;
 }
-.back-img{
+#back-img{
     background-image: url(img/frame.jpg);
     background-repeat: no-repeat;
 }
@@ -61,7 +61,7 @@ span{
     padding-left: 3%;
     
 }
-.box-side{
+#box-side{
     padding-right: 20px;
     padding-left: 20px;
 }
@@ -70,13 +70,6 @@ span{
     padding-right: 70px;
     padding-top: 65px;
 }
-footer{
-    color: gray;
-    text-align: center;
-    background-color: black;
-    padding-top: 80px;
-    padding-bottom: 200px;
-}
 .box-image{
     display: block;
     margin-left: auto;
@@ -84,9 +77,18 @@ footer{
     width: 1200px;
     border-radius: 70px;
 }
-.menu{
+#menu{
     text-align: center;
 }
 #foots{
     size: 200px;
 }
+footer{
+    color: gray;
+    text-align: center;
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 200px;
+}
+
+
